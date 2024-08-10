@@ -53,4 +53,3 @@ This project provides a comprehensive financial analysis of sales and revenue da
 
 ---
 
-This summary captures the essence of your project, the methodologies you used, and the actionable insights derived from the analysis.
