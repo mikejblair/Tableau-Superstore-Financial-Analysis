@@ -1,1 +1,1 @@
-https://public.tableau.com/app/profile/michael.blair2566/viz/CapstoneISuperstoreAnalysis/Dashboard10?publish=yes
+https://public.tableau.com/app/profile/michael.blair2566/viz/CapstoneISuperstoreFinancialAnalysis/Story1?publish=yes
